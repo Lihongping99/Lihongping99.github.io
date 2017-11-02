@@ -5,7 +5,7 @@
   font-style: normal;
 }
 body {
-  background: #212121;
+  background: purple;
 }
 .wrap {
   width: 1234px;
@@ -14,7 +14,7 @@ body {
   border-radius: 30px;
   overflow: hidden;
   position: relative;
-  margin: 20px auto;
+  margin: 10px auto;
   background: #fff;
 }
 .wrap .wall {
